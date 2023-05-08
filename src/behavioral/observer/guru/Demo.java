@@ -1,8 +1,8 @@
-package behavioral.observer;
+package behavioral.observer.guru;
 
-import behavioral.observer.editor.Editor;
-import behavioral.observer.listeners.EmailNotificationListener;
-import behavioral.observer.listeners.LogOpenListener;
+import behavioral.observer.guru.editor.Editor;
+import behavioral.observer.guru.listeners.EmailNotificationListener;
+import behavioral.observer.guru.listeners.LogOpenListener;
 
 public class Demo {
     public static void main(String[] args) {

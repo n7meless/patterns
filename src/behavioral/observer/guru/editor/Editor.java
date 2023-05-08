@@ -1,6 +1,6 @@
-package behavioral.observer.editor;
+package behavioral.observer.guru.editor;
 
-import behavioral.observer.publisher.EventManager;
+import behavioral.observer.guru.publisher.EventManager;
 
 import java.io.File;
 

@@ -1,6 +1,6 @@
-package behavioral.observer.publisher;
+package behavioral.observer.guru.publisher;
 
-import behavioral.observer.listeners.EventListener;
+import behavioral.observer.guru.listeners.EventListener;
 
 import java.io.File;
 import java.util.ArrayList;

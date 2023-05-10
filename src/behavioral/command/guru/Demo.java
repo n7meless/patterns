@@ -1,6 +1,6 @@
-package behavioral.command;
+package behavioral.command.guru;
 
-import behavioral.command.editor.Editor;
+import behavioral.command.guru.editor.Editor;
 
 public class Demo {
     public static void main(String[] args) {

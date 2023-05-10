@@ -1,6 +1,7 @@
-package behavioral.command.commands;
+package behavioral.command.guru.commands;
 
-import behavioral.command.editor.Editor;
+
+import behavioral.command.guru.editor.Editor;
 
 public class CutCommand extends Command {
 

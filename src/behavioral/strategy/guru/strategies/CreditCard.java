@@ -1,4 +1,4 @@
-package behavioral.strategy.strategies;
+package behavioral.strategy.guru.strategies;
 
 /**
  * Очень наивная реализация кредитной карты.

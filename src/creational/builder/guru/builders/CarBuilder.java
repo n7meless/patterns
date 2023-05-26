@@ -1,11 +1,11 @@
-package creational.builder.builders;
+package creational.builder.guru.builders;
 
-import creational.builder.cars.Car;
-import creational.builder.cars.CarType;
-import creational.builder.components.Engine;
-import creational.builder.components.GPSNavigator;
-import creational.builder.components.Transmission;
-import creational.builder.components.TripComputer;
+import creational.builder.guru.cars.Car;
+import creational.builder.guru.cars.CarType;
+import creational.builder.guru.components.Engine;
+import creational.builder.guru.components.GPSNavigator;
+import creational.builder.guru.components.Transmission;
+import creational.builder.guru.components.TripComputer;
 
 /**
  * Конкретные строители реализуют шаги, объявленные в общем интерфейсе.

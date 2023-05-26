@@ -1,4 +1,4 @@
-package creational.builder.components;
+package creational.builder.guru.components;
 
 /**
  * Одна из фишек автомобиля.

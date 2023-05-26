@@ -1,11 +1,11 @@
-package creational.builder;
+package creational.builder.guru;
 
-import creational.builder.builders.Builder;
-import creational.builder.cars.CarType;
-import creational.builder.components.Engine;
-import creational.builder.components.GPSNavigator;
-import creational.builder.components.Transmission;
-import creational.builder.components.TripComputer;
+import creational.builder.guru.builders.Builder;
+import creational.builder.guru.cars.CarType;
+import creational.builder.guru.components.Engine;
+import creational.builder.guru.components.GPSNavigator;
+import creational.builder.guru.components.Transmission;
+import creational.builder.guru.components.TripComputer;
 
 /**
  * Директор знает в какой последовательности заставлять работать строителя. Он

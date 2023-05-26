@@ -1,9 +1,9 @@
-package creational.builder.cars;
+package creational.builder.guru.cars;
 
-import creational.builder.components.Engine;
-import creational.builder.components.GPSNavigator;
-import creational.builder.components.Transmission;
-import creational.builder.components.TripComputer;
+import creational.builder.guru.components.Engine;
+import creational.builder.guru.components.GPSNavigator;
+import creational.builder.guru.components.Transmission;
+import creational.builder.guru.components.TripComputer;
 
 /**
  * Автомобиль — это класс продукта.

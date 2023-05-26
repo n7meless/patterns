@@ -1,6 +1,6 @@
-package creational.builder.components;
+package creational.builder.guru.components;
 
-import creational.builder.cars.Car;
+import creational.builder.guru.cars.Car;
 
 /**
  * Одна из фишек автомобиля.

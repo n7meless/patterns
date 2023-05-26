@@ -1,10 +1,10 @@
-package creational.builder;
+package creational.builder.guru;
 
 
-import creational.builder.builders.CarBuilder;
-import creational.builder.builders.CarManualBuilder;
-import creational.builder.cars.Car;
-import creational.builder.cars.Manual;
+import creational.builder.guru.builders.CarBuilder;
+import creational.builder.guru.builders.CarManualBuilder;
+import creational.builder.guru.cars.Car;
+import creational.builder.guru.cars.Manual;
 
 /**
  * Демо-класс. Здесь всё сводится воедино.

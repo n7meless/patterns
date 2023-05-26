@@ -1,4 +1,4 @@
-package behavioral.strategy.strategies;
+package behavioral.strategy.guru.strategies;
 
 /**
  * Общий интерфейс всех стратегий.

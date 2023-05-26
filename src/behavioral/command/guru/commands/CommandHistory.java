@@ -1,4 +1,4 @@
-package behavioral.command.commands;
+package behavioral.command.guru.commands;
 
 import java.util.Stack;
 

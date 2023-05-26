@@ -1,6 +1,6 @@
-package behavioral.strategy.order;
+package behavioral.strategy.guru.order;
 
-import behavioral.strategy.strategies.PayStrategy;
+import behavioral.strategy.guru.strategies.PayStrategy;
 
 /**
  * Класс заказа. Ничего не знает о том каким способом (стратегией) будет

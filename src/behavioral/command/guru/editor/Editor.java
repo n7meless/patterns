@@ -1,6 +1,6 @@
-package behavioral.command.editor;
+package behavioral.command.guru.editor;
 
-import behavioral.command.commands.*;
+import behavioral.command.guru.commands.*;
 
 import javax.swing.*;
 import java.awt.*;

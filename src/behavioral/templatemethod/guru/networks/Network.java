@@ -1,4 +1,4 @@
-package behavioral.templatemethod.networks;
+package behavioral.templatemethod.guru.networks;
 
 /**
  * Базовый класс социальной сети.

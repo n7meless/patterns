@@ -1,8 +1,8 @@
-package behavioral.templatemethod;
+package behavioral.templatemethod.guru;
 
-import behavioral.templatemethod.networks.Facebook;
-import behavioral.templatemethod.networks.Network;
-import behavioral.templatemethod.networks.Twitter;
+import behavioral.templatemethod.guru.networks.Facebook;
+import behavioral.templatemethod.guru.networks.Network;
+import behavioral.templatemethod.guru.networks.Twitter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

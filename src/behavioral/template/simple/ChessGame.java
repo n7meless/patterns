@@ -1,4 +1,4 @@
-package behavioral.template;
+package behavioral.template.simple;
 
 public class ChessGame extends Game{
     @Override

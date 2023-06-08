@@ -1,4 +1,4 @@
-package behavioral.template;
+package behavioral.template.simple;
 
 public abstract class Game {
     public final void play(){

@@ -1,4 +1,4 @@
-package behavioral.template;
+package behavioral.template.simple;
 
 public class Main {
     /*Шаблонный метод - определеяет скелет алгоритма,

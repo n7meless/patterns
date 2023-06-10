@@ -1,4 +1,4 @@
-package structural.facade.medialibrary;
+package structural.facade.guru.medialibrary;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package structural.facade.medialibrary;
+package structural.facade.guru.medialibrary;
 
 public class BitrateReader {
     public static VideoFile read(VideoFile file, Codec codec) {

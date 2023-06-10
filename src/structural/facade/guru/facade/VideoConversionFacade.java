@@ -1,6 +1,6 @@
-package structural.facade.facade;
+package structural.facade.guru.facade;
 
-import structural.facade.medialibrary.*;
+import structural.facade.guru.medialibrary.*;
 
 import java.io.File;
 

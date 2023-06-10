@@ -1,6 +1,6 @@
-package structural.facade;
+package structural.facade.guru;
 
-import structural.facade.facade.VideoConversionFacade;
+import structural.facade.guru.facade.VideoConversionFacade;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package structural.facade.medialibrary;
+package structural.facade.guru.medialibrary;
 
 public class CodecFactory {
     public static Codec extract(VideoFile file) {

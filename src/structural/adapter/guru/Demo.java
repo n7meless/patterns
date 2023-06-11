@@ -1,9 +1,9 @@
-package structural.adapter;
+package structural.adapter.guru;
 
-import structural.adapter.adapters.SquarePegAdapter;
-import structural.adapter.round.RoundHole;
-import structural.adapter.round.RoundPeg;
-import structural.adapter.square.SquarePeg;
+import structural.adapter.guru.adapters.SquarePegAdapter;
+import structural.adapter.guru.round.RoundHole;
+import structural.adapter.guru.round.RoundPeg;
+import structural.adapter.guru.square.SquarePeg;
 
 /**
  * Где-то в клиентском коде...

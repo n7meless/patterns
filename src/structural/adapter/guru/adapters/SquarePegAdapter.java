@@ -1,7 +1,7 @@
-package structural.adapter.adapters;
+package structural.adapter.guru.adapters;
 
-import structural.adapter.round.RoundPeg;
-import structural.adapter.square.SquarePeg;
+import structural.adapter.guru.round.RoundPeg;
+import structural.adapter.guru.square.SquarePeg;
 
 /**
  * Адаптер позволяет использовать КвадратныеКолышки и КруглыеОтверстия вместе.

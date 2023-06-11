@@ -1,4 +1,4 @@
-package structural.adapter.square;
+package structural.adapter.guru.square;
 
 /**
  * КвадратныеКолышки несовместимы с КруглымиОтверстиями (они остались в проекте

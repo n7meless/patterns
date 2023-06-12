@@ -1,4 +1,4 @@
-package behavioral.mediator.mediator;
+package behavioral.mediator.guru.mediator;
 
 /**
  * Класс заметок.

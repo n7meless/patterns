@@ -1,7 +1,7 @@
-package behavioral.mediator.components;
+package behavioral.mediator.guru.components;
 
-import behavioral.mediator.mediator.Mediator;
-import behavioral.mediator.mediator.Note;
+import behavioral.mediator.guru.mediator.Mediator;
+import behavioral.mediator.guru.mediator.Note;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

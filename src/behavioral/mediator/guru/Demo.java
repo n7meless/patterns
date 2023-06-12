@@ -1,8 +1,8 @@
-package behavioral.mediator;
+package behavioral.mediator.guru;
 
-import behavioral.mediator.components.*;
-import behavioral.mediator.mediator.Editor;
-import behavioral.mediator.mediator.Mediator;
+import behavioral.mediator.guru.components.*;
+import behavioral.mediator.guru.mediator.Editor;
+import behavioral.mediator.guru.mediator.Mediator;
 
 import javax.swing.*;
 

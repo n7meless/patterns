@@ -1,6 +1,7 @@
 package structural.adapter.ducks.challenge;
 
-import headfirst.designpatterns.adapter.ducks.Duck;
+
+import structural.adapter.ducks.Duck;
 
 public class DroneAdapter implements Duck {
 	Drone drone;

@@ -1,16 +1,20 @@
-package behavioral.mediator.components;
+package behavioral.mediator.guru.components;
 
-import behavioral.mediator.mediator.Mediator;
+import behavioral.mediator.guru.mediator.Mediator;
 
 import javax.swing.*;
-import java.awt.event.KeyEvent;
+import java.awt.event.ActionEvent;
 
 /**
  * Конкретные компоненты никак не связаны между собой. У них есть только один
  * канал общения – через отправку уведомлений посреднику.
  */
-public class TextBox extends JTextArea implements Component {
+public class SaveButton extends JButton implements Component {
     private Mediator mediator;
+
+    public SaveButton() {
+        super("Save");
+    }
 
     @Override
     public void setMediator(Mediator mediator) {
@@ -18,12 +22,12 @@ public class TextBox extends JTextArea implements Component {
     }
 
     @Override
-    protected void processComponentKeyEvent(KeyEvent keyEvent) {
-        mediator.markNote();
+    protected void fireActionPerformed(ActionEvent actionEvent) {
+        mediator.saveChanges();
     }
 
     @Override
     public String getName() {
-        return "TextBox";
+        return "SaveButton";
     }
 }

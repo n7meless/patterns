@@ -1,8 +1,9 @@
 package structural.adapter.ducks;
 
-import headfirst.designpatterns.adapter.ducks.challenge.Drone;
-import headfirst.designpatterns.adapter.ducks.challenge.DroneAdapter;
-import headfirst.designpatterns.adapter.ducks.challenge.SuperDrone;
+
+import structural.adapter.ducks.challenge.Drone;
+import structural.adapter.ducks.challenge.DroneAdapter;
+import structural.adapter.ducks.challenge.SuperDrone;
 
 public class DuckTestDrive {
 	public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package behavioral.visitor.shapes;
+package behavioral.visitor.guru.shapes;
 
 
-import behavioral.visitor.visitor.Visitor;
+import behavioral.visitor.guru.visitor.Visitor;
 
 import java.util.ArrayList;
 import java.util.List;

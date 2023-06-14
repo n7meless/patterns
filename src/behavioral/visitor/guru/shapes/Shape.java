@@ -1,7 +1,7 @@
-package behavioral.visitor.shapes;
+package behavioral.visitor.guru.shapes;
 
 
-import behavioral.visitor.visitor.Visitor;
+import behavioral.visitor.guru.visitor.Visitor;
 
 public interface Shape {
     void move(int x, int y);

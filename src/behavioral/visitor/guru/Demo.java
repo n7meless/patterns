@@ -1,7 +1,7 @@
-package behavioral.visitor;
+package behavioral.visitor.guru;
 
-import behavioral.visitor.shapes.*;
-import behavioral.visitor.visitor.XMLExportVisitor;
+import behavioral.visitor.guru.shapes.*;
+import behavioral.visitor.guru.visitor.XMLExportVisitor;
 
 public class Demo {
     public static void main(String[] args) {

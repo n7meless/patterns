@@ -1,6 +1,6 @@
-package behavioral.visitor.shapes;
+package behavioral.visitor.guru.shapes;
 
-import behavioral.visitor.visitor.Visitor;
+import behavioral.visitor.guru.visitor.Visitor;
 
 public class Circle extends Dot {
     private int radius;

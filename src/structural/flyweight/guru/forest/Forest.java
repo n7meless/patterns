@@ -1,8 +1,8 @@
-package structural.flyweight.forest;
+package structural.flyweight.guru.forest;
 
-import structural.flyweight.trees.Tree;
-import structural.flyweight.trees.TreeFactory;
-import structural.flyweight.trees.TreeType;
+import structural.flyweight.guru.trees.Tree;
+import structural.flyweight.guru.trees.TreeFactory;
+import structural.flyweight.guru.trees.TreeType;
 
 import javax.swing.*;
 import java.awt.*;

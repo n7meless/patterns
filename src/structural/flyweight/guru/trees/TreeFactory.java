@@ -1,4 +1,4 @@
-package structural.flyweight.trees;
+package structural.flyweight.guru.trees;
 
 import java.awt.*;
 import java.util.HashMap;

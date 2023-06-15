@@ -1,6 +1,6 @@
-package structural.flyweight;
+package structural.flyweight.guru;
 
-import structural.flyweight.forest.Forest;
+import structural.flyweight.guru.forest.Forest;
 
 import java.awt.*;
 

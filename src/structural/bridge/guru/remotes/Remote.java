@@ -1,4 +1,4 @@
-package structural.bridge.remotes;
+package structural.bridge.guru.remotes;
 
 public interface Remote {
     void power();

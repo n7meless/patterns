@@ -1,4 +1,4 @@
-package structural.bridge.devices;
+package structural.bridge.guru.devices;
 
 public class Radio implements Device {
     private boolean on = false;

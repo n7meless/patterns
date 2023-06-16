@@ -1,10 +1,10 @@
-package structural.bridge;
+package structural.bridge.guru;
 
-import structural.bridge.devices.Device;
-import structural.bridge.devices.Radio;
-import structural.bridge.devices.Tv;
-import structural.bridge.remotes.AdvancedRemote;
-import structural.bridge.remotes.BasicRemote;
+import structural.bridge.guru.devices.Device;
+import structural.bridge.guru.devices.Radio;
+import structural.bridge.guru.devices.Tv;
+import structural.bridge.guru.remotes.AdvancedRemote;
+import structural.bridge.guru.remotes.BasicRemote;
 
 public class Demo {
     public static void main(String[] args) {

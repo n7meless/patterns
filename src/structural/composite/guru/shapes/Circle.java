@@ -1,4 +1,4 @@
-package structural.composite.shapes;
+package structural.composite.guru.shapes;
 
 import java.awt.*;
 

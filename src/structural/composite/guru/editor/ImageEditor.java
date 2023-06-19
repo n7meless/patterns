@@ -1,7 +1,7 @@
-package structural.composite.editor;
+package structural.composite.guru.editor;
 
-import structural.composite.shapes.CompoundShape;
-import structural.composite.shapes.Shape;
+import structural.composite.guru.shapes.CompoundShape;
+import structural.composite.guru.shapes.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;

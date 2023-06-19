@@ -1,10 +1,10 @@
-package structural.composite;
+package structural.composite.guru;
 
-import structural.composite.editor.ImageEditor;
-import structural.composite.shapes.Circle;
-import structural.composite.shapes.CompoundShape;
-import structural.composite.shapes.Dot;
-import structural.composite.shapes.Rectangle;
+import structural.composite.guru.editor.ImageEditor;
+import structural.composite.guru.shapes.Circle;
+import structural.composite.guru.shapes.CompoundShape;
+import structural.composite.guru.shapes.Dot;
+import structural.composite.guru.shapes.Rectangle;
 
 import java.awt.*;
 

@@ -1,8 +1,8 @@
-package behavioral.iterator.social_networks;
+package behavioral.iterator.guru.social_networks;
 
-import behavioral.iterator.iterators.LinkedInIterator;
-import behavioral.iterator.iterators.ProfileIterator;
-import behavioral.iterator.profile.Profile;
+import behavioral.iterator.guru.iterators.LinkedInIterator;
+import behavioral.iterator.guru.iterators.ProfileIterator;
+import behavioral.iterator.guru.profile.Profile;
 
 import java.util.ArrayList;
 import java.util.List;

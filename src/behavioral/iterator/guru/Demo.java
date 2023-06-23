@@ -1,10 +1,10 @@
-package behavioral.iterator;
+package behavioral.iterator.guru;
 
-import behavioral.iterator.profile.Profile;
-import behavioral.iterator.social_networks.Facebook;
-import behavioral.iterator.social_networks.LinkedIn;
-import behavioral.iterator.social_networks.SocialNetwork;
-import behavioral.iterator.spammer.SocialSpammer;
+import behavioral.iterator.guru.profile.Profile;
+import behavioral.iterator.guru.social_networks.Facebook;
+import behavioral.iterator.guru.social_networks.LinkedIn;
+import behavioral.iterator.guru.social_networks.SocialNetwork;
+import behavioral.iterator.guru.spammer.SocialSpammer;
 
 import java.util.ArrayList;
 import java.util.List;

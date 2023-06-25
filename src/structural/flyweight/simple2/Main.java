@@ -7,7 +7,6 @@ public class Main {
     /*Приспособленец использует разделение для
     эффективной поддержки множества мелких объектов.*/
     public static void main(String[] args) {
-
         Primitive[] primitives = {
                 PrimitiveFactory.createPoint(),
                 PrimitiveFactory.createCircle(10),

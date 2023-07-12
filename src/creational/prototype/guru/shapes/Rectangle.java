@@ -1,4 +1,4 @@
-package creational.prototype.shapes;
+package creational.prototype.guru.shapes;
 
 public class Rectangle extends Shape {
     public int width;

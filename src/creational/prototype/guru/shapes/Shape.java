@@ -1,4 +1,4 @@
-package creational.prototype.shapes;
+package creational.prototype.guru.shapes;
 import java.util.Objects;
 
 public abstract class Shape {

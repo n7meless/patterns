@@ -1,8 +1,8 @@
-package creational.prototype;
+package creational.prototype.guru;
 
-import creational.prototype.shapes.Circle;
-import creational.prototype.shapes.Rectangle;
-import creational.prototype.shapes.Shape;
+import creational.prototype.guru.shapes.Circle;
+import creational.prototype.guru.shapes.Rectangle;
+import creational.prototype.guru.shapes.Shape;
 
 import java.util.ArrayList;
 import java.util.List;

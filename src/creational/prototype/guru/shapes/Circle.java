@@ -1,4 +1,4 @@
-package creational.prototype.shapes;
+package creational.prototype.guru.shapes;
 
 public class Circle extends Shape {
     public int radius;
